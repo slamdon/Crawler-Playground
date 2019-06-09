@@ -16,7 +16,7 @@ Python 版本: 3.7.3
 
 - [Blog 筆記](https://backend.devdon.com/archives/33)
 
-![demo](/Users/slamdon/code/Python-lab/Crawler/1-PTT-Crawler/demo.gif)
+![demo](https://github.com/slamdon/Crawler-Playground/raw/develop/1-PTT-Crawler/demo.gif)
 
-![PTT 爬蟲](/Users/slamdon/code/Python-lab/Crawler/1-PTT-Crawler/crawler-ptt.png)
+![PTT 爬蟲](https://github.com/slamdon/Crawler-Playground/raw/develop/1-PTT-Crawler/crawler-ptt.png)
 
