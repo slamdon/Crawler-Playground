@@ -28,3 +28,8 @@ Python 版本: 3.7.3
 
 - [Source Code](1-PTT-Crawler)
 - [Blog 筆記](https://backend.devdon.com/archives/56)
+
+![大眾點評爬蟲 demo](https://raw.githubusercontent.com/slamdon/Crawler-Playground/develop/2-Dianping/crawler-dianping-demo.gif)
+
+![大眾點評爬蟲結果](https://raw.githubusercontent.com/slamdon/Crawler-Playground/develop/2-Dianping/crawler-dianping.png)
+
